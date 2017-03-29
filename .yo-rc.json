@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Leandro_Damacena",
+      "authorEmail": "leandrodamacena@luego.com.br",
+      "authorUrl": "https://github.com/LeDamacena/yeoman-generator-boilerplate"
+    }
+  }
+}
