@@ -1,4 +1,4 @@
-# generator-boilerplate [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-boilerplate
 >
 
 ## Installation
@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-luego using [npm](https:
 
 ```bash
 npm install -g yo
-npm install -g generator-luego
+npm install -g generator-boilerplate
 ```
 
 Then generate your new project:
 
 ```bash
-yo luego
+yo boilerplate
 ```
 
 ## Getting To Know Yeoman
@@ -26,13 +26,3 @@ yo luego
 ## License
 
 MIT © [Leandro_Damacena]()
-
-
-[npm-image]: https://badge.fury.io/js/generator-luego.svg
-[npm-url]: https://npmjs.org/package/generator-luego
-[travis-image]: https://travis-ci.org//generator-luego.svg?branch=master
-[travis-url]: https://travis-ci.org//generator-luego
-[daviddm-image]: https://david-dm.org//generator-luego.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org//generator-luego
-[coveralls-image]: https://coveralls.io/repos//generator-luego/badge.svg
-[coveralls-url]: https://coveralls.io/r//generator-luego
